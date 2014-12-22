@@ -1,8 +1,9 @@
+%{?_javapackages_macros:%_javapackages_macros}
 Name:           eclipse-swtbot
 Version:        2.2.1
-Release:        3%{?dist}
+Release:        3.1
 Summary:        UI and functional testing tool for SWT and Eclipse based applications
-
+Group:		Development/Java
 License:        EPL
 URL:            http://www.eclipse.org/swtbot/
 Source0:        http://git.eclipse.org/c/swtbot/org.eclipse.swtbot.git/snapshot/org.eclipse.swtbot-%{version}.tar.bz2
