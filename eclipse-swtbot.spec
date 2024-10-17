@@ -5,7 +5,7 @@ Release:        3.3
 Summary:        UI and functional testing tool for SWT and Eclipse based applications
 Group:		Development/Java
 License:        EPL
-URL:            http://www.eclipse.org/swtbot/
+URL:            https://www.eclipse.org/swtbot/
 Source0:        http://git.eclipse.org/c/swtbot/org.eclipse.swtbot.git/snapshot/org.eclipse.swtbot-%{version}.tar.bz2
 Patch0:         drop-source-bundles.patch
 BuildRequires:  tycho
